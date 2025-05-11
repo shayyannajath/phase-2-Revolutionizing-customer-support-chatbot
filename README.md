@@ -19,12 +19,13 @@ This project seeks to address these challenges by introducing an intelligent cha
 **Easy Integration:** Easy to integrate into existing customer support systems or websites. ⚙️
 
 **Installation 🔧**
+
 To get started with the chatbot, clone this repository to your local machine:
 
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/chatbot-revolution.git
+git clone [https://github.com/yourusername/chatbot-revolution.git](https://github.com/shayyannajath/phase-2-Revolutionizing-customer-support-chatbot.git)
 Prerequisites 📋
 Before running the project locally, make sure you have the following installed on your machine:
 
@@ -38,7 +39,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/chatbot-revolution.git
+git clone [https://github.com/yourusername/chatbot-revolution.git](https://github.com/shayyannajath/phase-2-Revolutionizing-customer-support-chatbot.git)
 cd chatbot-revolution
 Create a virtual environment (optional but recommended):
 
